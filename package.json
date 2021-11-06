@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "concurrently": "^6.3.0",
     "tailwindcss": "^2.2.19"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
   }
 }

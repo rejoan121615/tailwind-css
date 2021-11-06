@@ -1,4 +1,6 @@
-/*! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com */
+/* tailwind utilites class  */
+
+/* ! tailwindcss v2.2.19 | MIT License | https://tailwindcss.com  */
 
 /*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
@@ -6962,20 +6964,8 @@ video {
   max-width: 1536px;
 }
 
-.flex-1 {
-  flex: 1 1 0%;
-}
-
-.flex-auto {
-  flex: 1 1 auto;
-}
-
-.flex-initial {
-  flex: 0 1 auto;
-}
-
-.flex-none {
-  flex: none;
+.flex-2 {
+  flex: 2 1 0%;
 }
 
 .flex-shrink-0 {
@@ -32274,6 +32264,8 @@ video {
   content: none;
 }
 
+/* Language: css */
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
@@ -38637,20 +38629,8 @@ video {
     max-width: 1536px;
   }
 
-  .sm\:flex-1 {
-    flex: 1 1 0%;
-  }
-
-  .sm\:flex-auto {
-    flex: 1 1 auto;
-  }
-
-  .sm\:flex-initial {
-    flex: 0 1 auto;
-  }
-
-  .sm\:flex-none {
-    flex: none;
+  .sm\:flex-2 {
+    flex: 2 1 0%;
   }
 
   .sm\:flex-shrink-0 {
@@ -69894,20 +69874,8 @@ video {
     max-width: 1536px;
   }
 
-  .md\:flex-1 {
-    flex: 1 1 0%;
-  }
-
-  .md\:flex-auto {
-    flex: 1 1 auto;
-  }
-
-  .md\:flex-initial {
-    flex: 0 1 auto;
-  }
-
-  .md\:flex-none {
-    flex: none;
+  .md\:flex-2 {
+    flex: 2 1 0%;
   }
 
   .md\:flex-shrink-0 {
@@ -101151,20 +101119,8 @@ video {
     max-width: 1536px;
   }
 
-  .lg\:flex-1 {
-    flex: 1 1 0%;
-  }
-
-  .lg\:flex-auto {
-    flex: 1 1 auto;
-  }
-
-  .lg\:flex-initial {
-    flex: 0 1 auto;
-  }
-
-  .lg\:flex-none {
-    flex: none;
+  .lg\:flex-2 {
+    flex: 2 1 0%;
   }
 
   .lg\:flex-shrink-0 {
@@ -132408,20 +132364,8 @@ video {
     max-width: 1536px;
   }
 
-  .xl\:flex-1 {
-    flex: 1 1 0%;
-  }
-
-  .xl\:flex-auto {
-    flex: 1 1 auto;
-  }
-
-  .xl\:flex-initial {
-    flex: 0 1 auto;
-  }
-
-  .xl\:flex-none {
-    flex: none;
+  .xl\:flex-2 {
+    flex: 2 1 0%;
   }
 
   .xl\:flex-shrink-0 {
@@ -163665,20 +163609,8 @@ video {
     max-width: 1536px;
   }
 
-  .\32xl\:flex-1 {
-    flex: 1 1 0%;
-  }
-
-  .\32xl\:flex-auto {
-    flex: 1 1 auto;
-  }
-
-  .\32xl\:flex-initial {
-    flex: 0 1 auto;
-  }
-
-  .\32xl\:flex-none {
-    flex: none;
+  .\32xl\:flex-2 {
+    flex: 2 1 0%;
   }
 
   .\32xl\:flex-shrink-0 {
@@ -188558,6 +188490,8 @@ video {
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   }
 }
+
+
 
 
 

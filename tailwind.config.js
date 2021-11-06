@@ -7,7 +7,7 @@ module.exports = {
       padding: {
         13: "3.25rem",
       }
-    }
+    },
   },
   variants: {
     extend: {}
